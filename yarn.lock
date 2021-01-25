@@ -179,11 +179,6 @@
   resolved "https://registry.yarnpkg.com/@soda/get-current-script/-/get-current-script-1.0.2.tgz#a53515db25d8038374381b73af20bb4f2e508d87"
   integrity sha512-T7VNNlYVM1SgQ+VsMYhnDkcGmWhQdL0bDyGm5TlQ3GBXnJscEClUUOKduWTmm2zCnvNLC1hc3JpuXjs/nFOc5w==
 
-"@soonspacejs/patrolcontrols@^0.1.3":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@soonspacejs/patrolcontrols/-/patrolcontrols-0.1.4.tgz#7777452440534f89868c6d0ca9422bef4b8bffa5"
-  integrity sha512-6ehZRN9aNmQaTG0r16HMkVS2jNVamGJtTA3c5wnd3iw5FY6dTXiSbbD+R4XNWK2pfDRki/HJ5CsnCwrd69gyAQ==
-
 "@soonspacejs/soonmanager-sync@^0.2.1":
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/@soonspacejs/soonmanager-sync/-/soonmanager-sync-0.2.1.tgz#8d3ee5737690c2e89752c6bca2b44e87f3f383fc"
