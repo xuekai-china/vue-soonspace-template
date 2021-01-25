@@ -1,8 +1,8 @@
 <template>
   <div class="outside">
     <vue-soonspace
-      customId="vue-soonspace-customId"
-      customClass="vue-soonspace-customClass"
+      id="vue-soonspace-customId"
+      className="vue-soonspace-customClass"
       :option="{
         showInfo: true,
         showGrid: false,
