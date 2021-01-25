@@ -26,7 +26,7 @@ export default {
   data() {
     return {
       // 资源没上传，把自己的资源解压后放在 public/model/ 下
-      proBasePath: "./model/2/",
+      proBasePath: "./model/",
       loading: true,
       poiInfo: null,
       treeData: [],
