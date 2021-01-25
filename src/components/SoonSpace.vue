@@ -55,8 +55,8 @@ export default {
       });
     },
     initLoadData() {
-      const modelData = this.poiInfo.filter((i) => i.type === "3D");
-      const poiData = this.poiInfo.filter((i) => i.type === "2D");
+      const modelData = this.poiInfo.filter((i) => i.category_type === "3D");
+      const poiData = this.poiInfo.filter((i) => i.category_type === "2D");
 
       const modelInfo = this.formatModelInfo(modelData);
       const poiInfo = this.formatModelInfo(poiData);
