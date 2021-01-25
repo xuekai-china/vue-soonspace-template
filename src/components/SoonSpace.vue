@@ -138,18 +138,4 @@ export default {
   height: 100%;
   width: 100%;
 }
-.loading {
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  background-color: rgba(255, 255, 255, 0.3);
-  z-index: 999;
-}
-.poi_div {
-  width: 50px;
-  height: 50px;
-  background-image: url("../assets/navigation.png");
-  background-size: 100%, 100%;
-  /* display: block !important; */
-}
 </style>
